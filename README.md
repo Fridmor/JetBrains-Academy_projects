@@ -22,3 +22,4 @@
 |:------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
 | [Battleship](https://hyperskill.org/projects/125?track=8)          | [Solution](https://github.com/Fridmor/JetBrains-Academy_projects/tree/main/Hard-projects/battleship) |
 | [Amazing Numbers](https://hyperskill.org/projects/184?track=8)     | [Solution](https://github.com/Fridmor/JetBrains-Academy_projects/tree/main/Hard-projects/numbers)    |
+| [Bulls and Cows](https://hyperskill.org/projects/53?track=8)       | [Solution](https://github.com/Fridmor/JetBrains-Academy_projects/tree/main/Hard-projects/bullscows)  |
